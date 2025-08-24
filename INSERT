@@ -1,0 +1,6 @@
+INSERT INTO Customers (CustomerID, FirstName, LastName, Email, City) VALUES
+(1, 'Peter', 'Jones', 'peter.jones@example.com', 'London');
+INSERT INTO Customers (CustomerID, FirstName, LastName, Email, City) VALUES
+(2, 'Almeer', 'Umair', 'Almeer-mlaik@example.com', 'Tokyo');
+INSERT INTO Customers (CustomerID, FirstName, LastName, Email, City) VALUES
+(3, 'Amna', 'Emie', 'amnaemie@example.com', 'New York');
